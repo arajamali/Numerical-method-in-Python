@@ -1,1 +1,6 @@
-
+In this homework, different methods for solving 2nd order ODEs are included. 
+Some of the methods include: 
+- Explicit Euler
+- Dormand-Prince 5(4)
+- Lobatto IIIC 3rd order
+At the end, all methods are compared to the potential analytical solution for verification purposes
