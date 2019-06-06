@@ -1,1 +1,4 @@
-
+Content:
+Slving systems of non-linear equations
+Newton-Jacobia was coded manually and used from automatic functions from Scipy
+Linear regression (linear and polynomial fitting equation)
