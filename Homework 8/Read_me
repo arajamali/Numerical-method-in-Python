@@ -3,4 +3,4 @@ Some of the methods include:
 - Explicit Euler
 - Dormand-Prince 5(4)
 - Lobatto IIIC 3rd order
-At the end, all methods are compared to the potential analytical solution for verification purposes
+At the end, all methods are compared to the potential analytical solutions for verification purposes
