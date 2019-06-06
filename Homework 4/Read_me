@@ -1,0 +1,9 @@
+System of linear equations. This homework is done in EXCEL and the following methods are practiced
+- Gaussian Elimination and Back substitution
+- LU decomposition
+- Cholesky decomposition
+- Gauss-Jordan method
+- Jacobi Iterative method
+- Gauss-Seidel iterative method
+- Successive Over-Relaxation (SOR)
+- Thomas Algorithm for tridiagonal matrix.
