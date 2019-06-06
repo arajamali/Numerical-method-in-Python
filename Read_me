@@ -1,2 +1,58 @@
 In each folder, the problem statement and solution files are included.
-The solution folder usually contains .ipynb, .pdf and .xlsx files
+The solution folder may contains .ipynb, .pdf and .xlsx files
+In this Read_me, a brief explanation about each homework will be presented as: 
+
+Homework 2:
+            List-comprehension
+            Matrix transpose and matrix multiplication
+            Dictionary in Python
+            ASCII code
+            Combination of 6 dices
+            Clock combination (different scenarios) 
+
+Homework 3:
+            3D data visualization (mpl_toolkits.mplot3d)
+            Practices on Scipy, Numpy, and Sympy
+            
+Homework 4:
+            System of linear equations. This homework is done in EXCEL and the following methods are practiced
+            - Gaussian Elimination and Back substitution
+            - LU decomposition
+            - Cholesky decomposition
+            - Gauss-Jordan method
+            - Jacobi Iterative method
+            - Gauss-Seidel iterative method
+            - Successive Over-Relaxation (SOR)
+            - Thomas Algorithm for tridiagonal matrix
+            
+Homework 5:
+            In this homework, the system of linear equations are solved using the methods that were practiced in HW4 as:
+            - Gaussian Elimination and Back substitution
+            - LU decomposition
+            - Cholesky decomposition
+            - Gauss-Jordan method
+            - Jacobi Iterative method
+            - Gauss-Seidel iterative method
+            - Successive Over-Relaxation (SOR)
+            - Thomas Algorithm for tridiagonal matrix
+            The above numerical methods will be coded in Python (manual method)
+            and then the available automatic functions from scipy will be used. 
+            Finally the results will be compared
+           
+Homework 6:
+            Slving systems of non-linear equations
+            Newton-Jacobia was coded manually and used from automatic functions from Scipy
+            Linear regression (linear and polynomial fitting equation)
+         
+Homework 7:
+            practice on sklearn regression. 
+            Many regressions have been performed in different scenarios
+            
+Homework 8: 
+            In this homework, different methods for solving 2nd order ODEs are included. 
+            Some of the methods include: 
+            - Explicit Euler
+            - Dormand-Prince 5(4)
+            - Lobatto IIIC 3rd order
+            At the end, all methods are compared to the potential analytical solutions for verification purpose
+
